@@ -3,7 +3,6 @@
 import streamlit as st
 import requests
 from datetime import datetime, time as dt_time, timedelta
-import pytz
 import json
 import sqlite3
 import os
